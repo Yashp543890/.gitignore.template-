@@ -1,0 +1,2 @@
+# .gitignore.template-
+GitHub.com 
